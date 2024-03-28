@@ -1,0 +1,21 @@
+h1{
+    font-size: 100px;
+    font-family:    'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-weight: lighter;
+}
+div.pa{
+    margin: 10px;
+    padding: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+}
+#top{
+    margin: 100px;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: larger;
+
+}

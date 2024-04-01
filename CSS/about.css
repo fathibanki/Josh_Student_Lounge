@@ -5,6 +5,10 @@ h1{
     width: 100%;
     height: auto;
     font-weight: lighter;
+   
+}
+body{
+    color:springgreen;
 }
 div.pa{
     margin: 10px;

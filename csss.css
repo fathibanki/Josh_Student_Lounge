@@ -1,10 +1,17 @@
+{
+   marigin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'peppins',sans-serif;
+
+}
 body
 {
-margin: 100px;
-padding: 100%; ;
-font-size: sans-serif;
-background-image: -webkit-gradient(cc);
-background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background: #1c8adb;
 }
 josh-sign-up-form
 {

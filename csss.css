@@ -15,27 +15,29 @@ background: #1c8adb;
 }
 josh-sign-up-form
 {
-    width: 300%;
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
-    background: #fff;
-     padding:20px;
-     margin:8% auto 100;
-     text-align:center;
-     container-type: rectangle;
-      
+    position: relative;
+    width: 400 px;
+    height: 500 px;
+ /   background: #1c8adb;
+    border-radius: 30 px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
 }
 josh-sign-up-form h2
      {
         color : #1c8adb;
         marign-button:30px;
+        container:"rectangle" ;
      }
      input-box
      {
-        border-radius: 30px;
-        padding: 20px;
-        margin:10px;
-        width: 100%;
-        border:1px solid #999;
+        border-radius: 30;
+        padding: 20 px;
+        margin:10 px;
+        width: 100 %;
+        border: solid #999;
         outline: #1c8adb;
      }
 
@@ -62,3 +64,4 @@ josh-sign-up-form h2
 
 
 
+    

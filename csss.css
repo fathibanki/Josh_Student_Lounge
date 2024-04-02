@@ -1,20 +1,21 @@
 body
 {
-margin: 0;
-padding: 0;
+margin: 100px;
+padding: 100%; ;
 font-size: sans-serif;
-background:image(jpg.1) ;
+background-image: -webkit-gradient(cc);
 background-position: center;
 }
-sign-up-form
+josh-sign-up-form
 {
     width: 300%;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
     background: #fff;
      padding:20px;
-     margin:8% auto 0;
-     text-align:center;c
+     margin:8% auto 100;
+     text-align:center;
 }
+josh-sign-up-form h2
      {
         color : #1c8adb;
         marign-button:30px;
@@ -26,7 +27,7 @@ sign-up-form
         margin:10px;
         width: 100%;
         border:1px solid #999;
-        outline: none;
+        outline: #1c8adb;
      }
 
      

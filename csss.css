@@ -21,6 +21,8 @@ josh-sign-up-form
      padding:20px;
      margin:8% auto 100;
      text-align:center;
+     container-type: rectangle;
+      
 }
 josh-sign-up-form h2
      {

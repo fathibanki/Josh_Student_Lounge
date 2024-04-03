@@ -9,18 +9,18 @@ h1{
 }
 nav{
     background:#1282a2;
-    height: 80px;
+    height: 100px;
     width: 100%;
 }
 label.log{
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 80px;
     padding:0 100px;
     font-weight: bold;
 }
 nav ul{
-    margin-right: 20px;
+    margin-right: 10px;
 }
 nav ul li{
     display: inline-block;
@@ -29,7 +29,7 @@ nav ul li{
 }
 nav ul li a{
     color: white;
-    font-size: 17px;
+    font-size: 15px;
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;

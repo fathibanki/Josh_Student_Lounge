@@ -10,7 +10,7 @@ h1 span:nth-child(2){
     color:red;
 }
 body{
-    background-color:#d6ccc2;
+    background-color:antiquewhite;
 }
 h4{
     text-align: center;
@@ -23,4 +23,7 @@ h4 span:nth-child(1){
 }
  h4 span:nth-child(2){
 color:#f77f00
+}
+h4{
+    color: aqua;
 }

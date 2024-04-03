@@ -1,32 +1,44 @@
+{
+   marigin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'peppins',sans-serif;
+
+}
 body
 {
-margin: 0;
-padding: 0;
-font-size: sans-serif;
-background:image(jpg.1) ;
-background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background: #1c8adb;
 }
-sign-up-form
+josh-sign-up-form
 {
-    width: 300%;
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
-    background: #fff;
-     padding:20px;
-     margin:8% auto 0;
-     text-align:center;c
+    position: relative;
+    width: 400 px;
+    height: 500 px;
+ /   background: #1c8adb;
+    border-radius: 30 px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
 }
+josh-sign-up-form h2
      {
         color : #1c8adb;
         marign-button:30px;
+        container:"rectangle" ;
      }
      input-box
      {
-        border-radius: 30px;
-        padding: 20px;
-        margin:10px;
-        width: 100%;
-        border:1px solid #999;
-        outline: none;
+        border-radius: 30;
+        padding: 20 px;
+        margin:10 px;
+        width: 100 %;
+        border: solid #999;
+        outline: #1c8adb;
      }
 
      
@@ -52,3 +64,4 @@ sign-up-form
 
 
 
+    

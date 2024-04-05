@@ -11,7 +11,9 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-background: #1c8adb;
+   background-image: url(image/cc.png.jpeg);
+color: blue;
+   
 }
 josh-sign-up-form
 {
